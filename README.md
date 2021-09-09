@@ -8,7 +8,7 @@
 -|data
 -|work
 -README.MD
--xxx.ipynb
+-用户购买预测.ipynb
 ```
 ## 使用方式
 A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)
